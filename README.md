@@ -1,11 +1,11 @@
-<!-- <div align="center">
-  <img height="360" width="720" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" />
-</div> -->
+<div align="center">
+  <img height="400" width="400" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" />
+</div>
 
 <h1 align="center">Привет 👋 Я Глеб</h1>
 
 <p align="center">
-Студент 1 курса по направлению <b>Информационная безопасность</b>. Пишу на Python, учу C++, работаю в Linux.  
+Студент 2 курса по направлению <b>Прикладные информационные технологии</b>. Пишу на Python, учу C++, работаю в Linux.  
 Делаю Telegram‑ и Discord‑ботов, учебные утилиты и небольшие веб‑сервисы. Люблю понятные решения и чистый код.
 </p>
 
