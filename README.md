@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="400" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" />
+  <img height="200" width="200" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" />
 </div>
 
 <h1 align="center">Привет 👋 Я Глеб</h1>
